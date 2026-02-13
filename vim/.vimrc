@@ -27,10 +27,10 @@ set showmatch
 set matchpairs+=<:>
 
 "タブや行末の半角スペース、改行などを可視化
-set list
+"set list
 
 "どの文字で可視化するかを設定
-set listchars=tab:>.,trail:⋰
+"set listchars=tab:>.,trail:⋰
 
 "常にステータス行を表示
 set laststatus=2
