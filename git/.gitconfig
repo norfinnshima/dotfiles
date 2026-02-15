@@ -6,6 +6,14 @@
 	email = xxxxxxxxxx@xxxxxxxxxx
 [init]
 	defaultBranch = main
+[alias]
+	st = status
+	adl = add --all
+	cm = commit -m
+	log = log --graph
+	df = diff
+	ch = checkout
+	br = branch
 [status]
 	showUntrackedFiles = all
 [merge]
