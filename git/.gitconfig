@@ -10,7 +10,7 @@
 	st = status
 	adl = add --all
 	cm = commit -m
-	log = log --graph
+	lg = log --graph
 	df = diff
 	ch = checkout
 	br = branch
