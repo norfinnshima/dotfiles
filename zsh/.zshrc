@@ -4,9 +4,8 @@ export PATH="/opt/homebrew/bin:$PATH"
 
 # プロンプトの表示
 # %n@%m %1~ %# 
-autoload -Uz colors
-colors
-PS1='%F{cyan}%n@%m%f %1~ %# '
+# PROMPT='%F{cyan}%n@%m%f %B%1~%b %# '
+PROMPT='🐱 %B%F{cyan}%~ %# %f%b'
 
 # alias
 alias ll='ls -lF'
