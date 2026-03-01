@@ -4,7 +4,6 @@
 * .gitignore に .env を追加してください
 
 ## .env ファイル
-
 ### 書き方の例
 ```
 GEMINI_API_KEY=XXXXXXXXXXXXXXX
