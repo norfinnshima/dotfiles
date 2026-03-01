@@ -12,10 +12,10 @@ git_info() {
   local user branch
   user=$(git config user.name 2>/dev/null)
   branch=$(git symbolic-ref --short HEAD 2>/dev/null)
-  [[ -n "$user" && -n "$branch" ]] && echo " (${user}:${branch})"
+  [[ -n "$user" && -n "$branch" ]] && echo " %B%F{yellow}(${user}:${branch})%f%b"
 }
 setopt PROMPT_SUBST
-PROMPT='🐱 %B%F{cyan}%~%f%b$(git_info) %# '
+PROMPT='🐱 %F{yellow}%~%f$(git_info) %# '
 
 ### alias ###
 alias ll='ls -lF'
