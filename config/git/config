@@ -10,6 +10,7 @@
 	st = status
 	adl = add --all
 	cm = commit -m
+	cmu = commit -m 'update'
 	df = diff
 	br = branch
 	ch = checkout
