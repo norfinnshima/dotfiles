@@ -4,13 +4,13 @@
 * [global_rules](https://github.com/norfinnshima/dotfiles/tree/main/global_rules)
 
 ## Git
-* [~/.config/git/config](https://github.com/norfinnshima/dotfiles/blob/main/config/git/config)
+* [~/.config/git/config](https://github.com/norfinnshima/dotfiles/blob/main/git/config)
 
 ## tmux
-* [~/.config/tmux/tmux.conf](https://github.com/norfinnshima/dotfiles/blob/main/config/tmux/tmux.conf)
+* [~/.config/tmux/tmux.conf](https://github.com/norfinnshima/dotfiles/blob/main/tmux/tmux.conf)
 
 ## vim
-* [~/.vimrc](https://github.com/norfinnshima/dotfiles/blob/main/vim/.vimrc)
+* [~/.vimrc](https://github.com/norfinnshima/dotfiles/blob/main/vim/vimrc)
 
 ## Sublime Text
 * [Keymap](https://github.com/norfinnshima/dotfiles/blob/main/sublimetext/settings/Default%20(OSX).sublime-keymap)
@@ -22,4 +22,5 @@
 * [カーソルの移動を vim 風にする: vscode-keybindings.json](https://github.com/norfinnshima/dotfiles/blob/main/vscode/settings/vscode-keybindings.json)
 
 ## zsh
-* [~/.zshrc](https://github.com/norfinnshima/dotfiles/blob/main/zsh/.zshrc)
+* [~/.zprofile](https://github.com/norfinnshima/dotfiles/blob/main/zsh/zprofile)
+* [~/.zshrc](https://github.com/norfinnshima/dotfiles/blob/main/zsh/zshrc)

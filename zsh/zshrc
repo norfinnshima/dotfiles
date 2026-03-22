@@ -23,4 +23,3 @@ alias lla='ls -lAF'
 alias la='ls -A'
 alias l='ls -CF'
 alias cdw='cd ~/workspace'
-
