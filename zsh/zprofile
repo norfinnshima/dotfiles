@@ -1,3 +1,9 @@
 typeset -U path
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
+
+if [[ -d /Applications/MAMP/bin/php ]]; then
+  PHP_VERSION=${$(print -l /Applications/MAMP/bin/php/*(/:t) | sort -n)[-1]}
+  path=(/Applications/MAMP/bin/php/$PHP_VERSION/bin $path)
+fi
+
