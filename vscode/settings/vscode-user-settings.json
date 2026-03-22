@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+        "**/node_modules": true
+    },
+    "editor.cursorStyle": "block",
+    "editor.fontSize": 14,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.tabSize": 2,
+    "extensions.ignoreRecommendations": true,
+    "git.openRepositoryInParentFolders": "never",
+    "telemetry.telemetryLevel": "off",
+    "php.validate.executablePath": "",
+    "window.zoomLevel": -1,
+    "workbench.startupEditor": "none",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#00aa3933",
+        "editor.lineHighlightBorder": "#00aa3944",
+        "statusBar.background": "#0039aacc",
+        "tab.activeBackground": "#0039aacc"
+    }
+}

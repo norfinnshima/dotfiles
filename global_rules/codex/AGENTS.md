@@ -1,0 +1,4 @@
+- Respond in Japanese.
+- Confirm before deleting files.
+- Assume a public GitHub repo. Never expose secrets or credentials.
+- Keep files organized — group related files into subdirectories.
