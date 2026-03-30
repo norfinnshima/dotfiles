@@ -3,6 +3,9 @@
 ## Agent
 * [Global Context](https://github.com/norfinnshima/dotfiles/tree/main/agent)
 
+## Codex
+* [Skills](https://github.com/norfinnshima/dotfiles/tree/main/codex/skills)
+
 ## Git
 * [~/.config/git/config](https://github.com/norfinnshima/dotfiles/blob/main/git/config)
 
