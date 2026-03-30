@@ -1,3 +1,4 @@
+### Default working directory
 if [[ "$PWD" == "$HOME" ]]; then
   cd ~/workspace
 fi
@@ -22,4 +23,5 @@ alias ll='ls -lF'
 alias lla='ls -lAF'
 alias la='ls -A'
 alias l='ls -CF'
-alias cdw='cd ~/workspace'
+alias dot='cd ~/.dotfiles'
+alias works='cd ~/workspace'
