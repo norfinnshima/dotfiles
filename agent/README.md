@@ -1,4 +1,4 @@
-# Agent Context
+# Agent Global Context
 
 ## ◯ Claude
 * `~/.claude/CLAUDE.md`
