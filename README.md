@@ -1,7 +1,7 @@
 # dotfiles
 
-## Agent Global Rules (Common)
-* [global_rules](https://github.com/norfinnshima/dotfiles/tree/main/agent)
+## Agent
+* [Global Context](https://github.com/norfinnshima/dotfiles/tree/main/agent)
 
 ## Git
 * [~/.config/git/config](https://github.com/norfinnshima/dotfiles/blob/main/git/config)
